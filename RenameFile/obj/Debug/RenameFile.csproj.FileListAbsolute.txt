@@ -1,0 +1,9 @@
+C:\Users\wliu37\Documents\GitHub\RenameFile\RenameFile\bin\Debug\RenameFile.exe.config
+C:\Users\wliu37\Documents\GitHub\RenameFile\RenameFile\bin\Debug\RenameFile.exe
+C:\Users\wliu37\Documents\GitHub\RenameFile\RenameFile\bin\Debug\RenameFile.pdb
+C:\Users\wliu37\Documents\GitHub\RenameFile\RenameFile\obj\Debug\RenameFile.csprojResolveAssemblyReference.cache
+C:\Users\wliu37\Documents\GitHub\RenameFile\RenameFile\obj\Debug\RenameFile.Main.resources
+C:\Users\wliu37\Documents\GitHub\RenameFile\RenameFile\obj\Debug\RenameFile.Properties.Resources.resources
+C:\Users\wliu37\Documents\GitHub\RenameFile\RenameFile\obj\Debug\RenameFile.csproj.GenerateResource.Cache
+C:\Users\wliu37\Documents\GitHub\RenameFile\RenameFile\obj\Debug\RenameFile.exe
+C:\Users\wliu37\Documents\GitHub\RenameFile\RenameFile\obj\Debug\RenameFile.pdb
